@@ -1,48 +1,106 @@
-# 👨‍💻 ANIRUDH
+# ANIRUDH | Developer Profile
 
-### DREAM. CODE. BUILD. GROW.
+<h1 align="center">Hey, I'm Anirudh 👋</h1>
 
-**Computer Engineering Student | Aspiring Software Developer**
+<h3 align="center">Computer Engineering Student | Aspiring Software Developer</h3>
 
-Welcome to my GitHub! I'm Anirudh, a Computer Engineering diploma student from India, interested in Python programming, automation and web development.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Python+Developer+in+Progress;Building+Practical+Projects;Exploring+Web+Development;Learning+Every+Day" />
+</p>
 
-## 🚀 About Me
-
-- 🎓 Computer Engineering Diploma Student
-- 🐍 Learning Python
-- 🌐 Exploring HTML and CSS
-- 🤖 Building personal assistant projects
-- 💻 Learning Git and GitHub
-- 🧠 Improving through practical projects
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-## 📂 Featured Projects
-
-| Project | Description |
-|---|---|
-| [Expense Tracker](https://github.com/anirudh3309/anirudh-developer-portfolio/blob/main/expense_tracker.py) | Personal expense management |
-| [JARVIS Lite](https://github.com/anirudh3309/anirudh-developer-portfolio/blob/main/jarvis_lite.py) | Local notes and task assistant |
-| [Student Toolkit](https://github.com/anirudh3309/anirudh-developer-portfolio/blob/main/student_toolkit.py) | Calculator, marks and password tools |
-
-## 🌐 My Portfolio
-
-[**VISIT MY LIVE DEVELOPER WEBSITE →**](https://anirudh3309.github.io/anirudh-developer-portfolio/)
-
-## 🎯 Current Goals
-
-- Improve Python fundamentals
-- Build useful real-world applications
-- Learn web development
-- Improve problem-solving
-- Explore open-source development
+<p align="center">
+  <a href="https://github.com/anirudh3309">
+    <img src="https://img.shields.io/badge/GitHub-anirudh3309-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://anirudh3309.github.io/anirudh-developer-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00AEEF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-**KEEP LEARNING. KEEP BUILDING. 🚀**
+## 👨‍💻 About Me
 
+I'm Anirudh, a Computer Engineering diploma student from India with a strong interest in software development, Python programming and technology.
+
+I enjoy turning ideas into practical projects and continuously improving my programming skills through hands-on development.
+
+- 🎓 Computer Engineering Student
+- 🐍 Learning and building with Python
+- 🌐 Exploring Web Development
+- 🤖 Developing a personal JARVIS assistant
+- 💡 Interested in automation and problem-solving
+- 🚀 Focused on continuous learning and development
+
+## 🛠️ Technical Skills
+
+| Technology | Experience |
+|---|---|
+| Python | Learning & Building |
+| HTML5 | Exploring |
+| CSS3 | Exploring |
+| Git | Learning |
+| GitHub | Using |
+| Windows | Working Environment |
+
+## 🚀 Featured Projects
+
+### 🤖 JARVIS Lite — Personal Assistant
+A lightweight Python-based personal assistant with local notes and task management.
+
+**Technologies:** Python, JSON
+
+[View Source Code](https://github.com/anirudh3309/anirudh-developer-portfolio/blob/main/jarvis_lite.py)
+
+### 💰 Expense Tracker
+A Python application for recording expenses, organizing categories, viewing summaries and exporting records to CSV.
+
+**Technologies:** Python, JSON, CSV
+
+[View Source Code](https://github.com/anirudh3309/anirudh-developer-portfolio/blob/main/expense_tracker.py)
+
+### 🎓 Student Toolkit
+A collection of useful student utilities, including a calculator, marks percentage calculator and password generator.
+
+**Technologies:** Python
+
+[View Source Code](https://github.com/anirudh3309/anirudh-developer-portfolio/blob/main/student_toolkit.py)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anirudh3309&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh3309&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anirudh3309&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🎯 Current Focus
+
+- Strengthening Python fundamentals
+- Building useful software applications
+- Improving problem-solving skills
+- Learning front-end web development
+- Developing JARVIS
+- Understanding software development workflows
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/anirudh3309">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://anirudh3309.github.io/anirudh-developer-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00AEEF?style=for-the-badge&logo=googlechrome" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>BUILD. LEARN. IMPROVE.</b>
+  <br/>
+  Thanks for visiting my profile! ⭐
+</p>
